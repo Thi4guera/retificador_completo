@@ -39,12 +39,12 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 
 🔌 Explicação:
 
-### → J1 recebe a tensão AC do transformador
-### → A ponte retificadora (BR1) converte AC em DC pulsante
-### → O capacitor C1 realiza a filtragem inicial
-### → C2 e C3 atuam como filtros de alta frequência próximos ao 7805
-### → A saída do 7805 alimenta o LED (D1) com o resistor R1
-### → J2 disponibiliza saída regulada de 5V
+#### → J1 recebe a tensão AC do transformador
+#### → A ponte retificadora (BR1) converte AC em DC pulsante
+#### → O capacitor C1 realiza a filtragem inicial
+#### → C2 e C3 atuam como filtros de alta frequência próximos ao 7805
+#### → A saída do 7805 alimenta o LED (D1) com o resistor R1
+#### → J2 disponibiliza saída regulada de 5V
 
 -------------------------------------------------------------------------------
 
