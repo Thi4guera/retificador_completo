@@ -5,7 +5,7 @@ O projeto consiste num circuito de fonte de alimentação regulada de 5V com um 
 
 🎯 O objetivo desse circuito é converter corrente alternada (AC) da rede elétrica em corrente contínua (DC) estabilizada de 5V para alimentar dispositivos eletrônicos.
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
 🎯 Funcionamento do Circuito
 
@@ -28,7 +28,7 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 → O LED serve como indicador de funcionamento, acendendo quando há 5V na saída.
 → O resistor R1 limita a corrente para evitar que o LED queime.
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
 📘 Esquemático
 📷 Diagrama Elétrico do Circuito (criado no Proteus 8) :
@@ -43,7 +43,7 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 → A saída do 7805 alimenta o LED (D1) com o resistor R1
 → J2 disponibiliza saída regulada de 5V
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
 🧩 PCB
 📐 Layout da Placa de Circuito Impresso (criado no Proteus 8):
@@ -62,7 +62,7 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 ✔ Proteção: O 7805 possui proteção contra sobrecarga e superaquecimento
 ✔ Trilhas de alta corrente: Trilhas mais largas para suportar a corrente da entrada AC até a saída DC
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
 🔍 Visualização 3D
 🧱 Modelo Tridimensional da Placa :
@@ -74,7 +74,7 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 
 Inspeção virtual do design final da PCB antes da fabricação
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
 🛠️ Prática (Montagem Protoboard)
 📸 Montagem do circuito em protoboard para testes :
@@ -91,5 +91,5 @@ Inspeção virtual do design final da PCB antes da fabricação
 ✔ LED vermelho aceso confirma que os 5V estão presentes
 ✔ Medição com multímetro: saída entre 4,96V e 5,01V
 
-========================================================================================================================
+-------------------------------------------------------------------------------
 
