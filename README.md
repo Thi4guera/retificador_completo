@@ -39,12 +39,12 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 
 🔌 Explicação:
 
-#### → J1 recebe a tensão AC do transformador
-#### → A ponte retificadora (BR1) converte AC em DC pulsante
-#### → O capacitor C1 realiza a filtragem inicial
-#### → C2 e C3 atuam como filtros de alta frequência próximos ao 7805
-#### → A saída do 7805 alimenta o LED (D1) com o resistor R1
-#### → J2 disponibiliza saída regulada de 5V
+##### → J1 recebe a tensão AC do transformador
+##### → A ponte retificadora (BR1) converte AC em DC pulsante
+##### → O capacitor C1 realiza a filtragem inicial
+##### → C2 e C3 atuam como filtros de alta frequência próximos ao 7805
+##### → A saída do 7805 alimenta o LED (D1) com o resistor R1
+##### → J2 disponibiliza saída regulada de 5V
 
 -------------------------------------------------------------------------------
 
@@ -54,16 +54,16 @@ Resistor (R1 - 220Ω) e LED (D1 - Vermelho):
 
 📌 Características do Circuito
 
-✔ Dimensões da PCB: 50mm x 30mm
-✔ Tipo: Fonte de alimentação linear regulada de 5V DC
-✔ Entrada: Tensão AC (geralmente 9V ou 12V)
-✔ Saída: 5V DC estabilizados
-✔ Capacidade de corrente: Até 1A (dependendo do dissipador de calor do 7805)
-✔ Filtragem: Capacitores para redução de ruído e estabilização
-✔ Indicação de funcionamento: LED indicador na saída
-✔ Regulação: Utiliza o regulador 7805 para manter a tensão de saída constante
-✔ Proteção: O 7805 possui proteção contra sobrecarga e superaquecimento
-✔ Trilhas de alta corrente: Trilhas mais largas para suportar a corrente da entrada AC até a saída DC
+##### ✔ Dimensões da PCB: 50mm x 30mm
+##### ✔ Tipo: Fonte de alimentação linear regulada de 5V DC
+##### ✔ Entrada: Tensão AC (geralmente 9V ou 12V)
+##### ✔ Saída: 5V DC estabilizados
+##### ✔ Capacidade de corrente: Até 1A (dependendo do dissipador de calor do 7805)
+##### ✔ Filtragem: Capacitores para redução de ruído e estabilização
+##### ✔ Indicação de funcionamento: LED indicador na saída
+##### ✔ Regulação: Utiliza o regulador 7805 para manter a tensão de saída constante
+##### ✔ Proteção: O 7805 possui proteção contra sobrecarga e superaquecimento
+##### ✔ Trilhas de alta corrente: Trilhas mais largas para suportar a corrente da entrada AC até a saída DC
 
 -------------------------------------------------------------------------------
 
@@ -89,10 +89,10 @@ Inspeção virtual do design final da PCB antes da fabricação
 
 ✅ Validações feitas :
 
-✔ Transformador fornece tensão AC à protoboard
-✔ Ponte retificadora, capacitores e 7805 conectados conforme o esquema
-✔ LED vermelho aceso confirma que os 5V estão presentes
-✔ Medição com multímetro: saída entre 4,96V e 5,01V
+##### ✔ Transformador fornece tensão AC à protoboard
+##### ✔ Ponte retificadora, capacitores e 7805 conectados conforme o esquema
+##### ✔ LED vermelho aceso confirma que os 5V estão presentes
+##### ✔ Medição com multímetro: saída entre 4,96V e 5,01V
 
 -------------------------------------------------------------------------------
 
